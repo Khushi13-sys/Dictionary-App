@@ -1,2 +1,11 @@
 # Dictionary-App
-🔹 Dictionary App – Hindi-English Word Meaning Finder   – Built a simple application that takes any English word as input and returns its Hindi meaning, English definition, and an example sentence.
+# 🧠 Dictionary App (Hindi-English Meaning with Example)
+
+A simple dictionary application where users can enter a word and get:
+- Hindi meaning
+- English meaning
+- Example usage in a sentence
+
+## 🛠 Built With:
+- HTML/CSS/JS (Fronted)
+
